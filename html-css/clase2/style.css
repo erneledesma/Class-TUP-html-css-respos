@@ -1,0 +1,23 @@
+.parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.box {
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.box1 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.box2 {
+    background-color: blueviolet;
+    width: 300px;
+    height: 300px;
+}
